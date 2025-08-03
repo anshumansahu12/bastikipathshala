@@ -54,41 +54,38 @@ This website helps:
 
 ## 📂 **Folder Structure**
 
-.
-├── .
-├── |   about.html
-├── |   admin-dashboard.html
-├── |   admin-login.html
-├── |   gallary.html
-├── |   index.html
-├── |   registration.html
-├── |   team.html
-├── |
-├── +---css
-├── |       about.css
-├── |       admin-dashboard.css
-├── |       admin-login.css
-├── |       gallery.css
-├── |       style.css
-├── |       style1.css
-├── |       team.css
-├── |
-├── +---images
-├── |       banner.jpg
-├── |       img1.jpg
-├── |       img2.jpg
-├── |       img3.jpg
-├── |       ngo1.jpg
-├── |       ngo2.jpg
-├── |       ngo3.jpg
-├── |       ngo4.jpg
-├── |       pfp.jpg.jpeg
-├── |       qr.png
-├── |
-└── \---js/
-    ├── admin-dashboard.js
-    ├── admin-login.js
-    ├── firebase-config.js
-    ├── main.js
-    ├── registration.js
-    └── s
+└── NGO/
+    ├── about.html
+    ├── admin-dashboard.html
+    ├── admin-login.html
+    ├── gallary.html
+    ├── index.html
+    ├── registration.html
+    ├── team.html
+    ├── js/
+    │   ├── admin-dashboard.js
+    │   ├── admin-login.js
+    │   ├── firebase-config.js
+    │   ├── main.js
+    │   ├── registration.js
+    │   └── s
+    ├── images/
+    │   ├── banner.jpg
+    │   ├── img1.jpg
+    │   ├── img2.jpg
+    │   ├── img3.jpg
+    │   ├── ngo1.jpg
+    │   ├── ngo2.jpg
+    │   ├── ngo3.jpg
+    │   ├── ngo4.jpg
+    │   ├── pfp.jpg.jpeg
+    │   └── qr.png
+    └── css/
+        ├── about.css
+        ├── admin-dashboard.css
+        ├── admin-login.css
+        ├── gallery.css
+        ├── style.css
+        ├── style1.css
+        └── team.css
+
